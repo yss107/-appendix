@@ -1,6 +1,4 @@
-# Invoice Memory Learning System
 
-An intelligent memory-driven learning layer for automated invoice processing that learns from human corrections and improves automation rates over time.
 
 ## 🎯 Overview
 
@@ -278,42 +276,13 @@ All 7 required outcomes are verified in the demo output:
 - Shows reasoning for all decisions
 - Tracks memory evolution
 
-## 🎥 Video Demo
 
-A video demonstration showing:
-1. Fresh memory database initialization
-2. Sequential invoice processing
-3. Human corrections being applied
-4. Memory learning and growth
-5. Improved automation on later invoices
-6. All expected outcomes verified
 
-*[Video link to be provided separately]*
 
-## 🤝 Contributing
-
-This system is designed for extensibility:
-
-- **New memory types**: Add to database schema and engine
-- **Custom patterns**: Extend correction memory logic
-- **Integration**: Replace sample data with real extraction APIs
-- **UI**: Build visualization layer on top of engine
-
-## 📝 License
-
-Educational project for AI Agent Intern Assignment.
 
 ## 👨‍💻 Author
 
 Yash Kumar  
 GitHub: [yss107](https://github.com/yss107)
 
----
 
-**Note**: This is a demonstration system. In production, you would:
-- Add comprehensive error handling
-- Implement memory decay mechanisms
-- Add conflict resolution for contradictory memories
-- Include batch processing capabilities
-- Add monitoring and alerting
-- Implement memory pruning for old patterns
